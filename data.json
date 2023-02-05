@@ -1,0 +1,16 @@
+{
+    "NAME" : "Tejinder Singh",
+    "ABOUT_ME" : "I am from baramulla Jammu and Kashmir, I am working as Business Analyst in an IT organization.I have done my B.tech from Shaheed udham singh college of engineering and technology",
+    "LANGUAGES" : [
+       "Python",           
+       "Java",
+       "Kotlin",
+       "Android",
+       "Django"
+    ],
+    "PROJECTS" :[
+                ["filter_drama", "Face Detection", "I have created the basic level of this project where user will be able to detect his face. This will also recognize the image"],
+                ["whatshot",  "Socila midea application", "simpel socila midea app from where user will be able to view edit and upload posts"],
+                ["place", "Leaf Detection", "i have used the third part Mmodel to detect the leaf of the plant"]
+    ]
+}
